@@ -1,2 +1,3 @@
-yaml
+numpy
+pandas
 pandasai
